@@ -1,9 +1,9 @@
-cirsection{
+section{
     display: inline-block;
 }
 .logo{
     color: #0A1B32;
-font-family: Circular Std;
+font-family: 'Circular Std';
 font-size: 30px;
 font-style: normal;
 font-weight: 900;
@@ -36,7 +36,6 @@ margin-left: 200px;
  margin-bottom: 382px;
  margin-left: 200px;
 width: 590.46px;
-
 color: #9A9A9A;
 font-family: 'Roboto', sans-serif;
 font-size: 20px;
